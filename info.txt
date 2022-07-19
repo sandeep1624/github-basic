@@ -1,1 +1,16 @@
 hello every one how are you
+i live in chitwan
+
+
+
+
+//after install and adding email id in git -> git init
+//open folder add some file, and open terminal in vs code
+//type ->git status , in terminal info.txt file shows in red color
+//type -> git add info.txt, in terminal to commit it and " new file: info.txt " in green color
+
+
+// commit means to save in system only
+//to commit type -> git commit -m "first commit"
+// to push 
+// git checkout "id" to watch previous added text
